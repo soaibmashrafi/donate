@@ -1,6 +1,8 @@
 body {
     background-image: url(images/z3.jpg);
     background-repeat: no-repeat;
+    backdrop-filter: blur(4px);
+
 }
 
 .header-container {
@@ -35,18 +37,50 @@ body {
 .donnet-button {
     background-image: linear-gradient(rgb(33, 250, 47), black);
     color: azure;
-    padding: 8px 14px;
+    padding: 14px 14px;
     text-decoration: none;
+    margin-top: 600px;
     font-weight: 700;
     border-radius: 15px;
-    margin-top: 600px;
+
 }
 
 #pera2-design {
-    text-align: center;
     color: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-bottom: 40px;
     font-weight: 100;
     text-align: justify;
+}
+
+.amount {
+    margin-top: -300px;
+    text-align: center;
+    font-size: 20px;
+}
+
+h3 {
+    display: inline;
+    font-weight: 900;
+    background-color: rgb(208, 216, 213);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 30px 10px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+#orange {
+    color: orange;
+    border: orange solid 2px;
+    background-color: rgb(237, 219, 185)
+}
+
+.white {
+    color: white;
+}
+
+.form {
+    margin: 300px;
+    padding: 20px;
+    background-color: blueviolet;
 }
