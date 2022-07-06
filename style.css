@@ -95,7 +95,7 @@ h3 {
 #shelter {
     background-color: rgb(255, 180, 89);
     width: 33.3%;
-    height: 40%;
+    height: 50%;
     padding: 30px;
     margin: 10px;
     border-style: outset;
@@ -105,7 +105,7 @@ h3 {
 #food {
     background-color: rgb(125, 235, 110);
     width: 33.3%;
-    height: 40%;
+    height: 50%;
     padding: 30px;
     margin: 10px;
     border-style: outset;
@@ -115,7 +115,7 @@ h3 {
 #education {
     background-color: rgb(207, 140, 240);
     width: 33.3%;
-    height: 40%;
+    height: 50%;
     padding: 30px;
     margin: 10px;
     border-style: outset;
